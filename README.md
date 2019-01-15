@@ -1,5 +1,7 @@
 # Lagash_reto_técnico
 
+![image](https://user-images.githubusercontent.com/39841876/51154550-c5aa8500-1839-11e9-8367-954240a5af14.png)
+
 Se creó una aplicación web con Javascript, que permite seleccionar lugares para la entrada a un cine.
 Consiste en una sola pantalla con 2 secciones: “mapa del cine“ y “resumen del pedido”.
 
