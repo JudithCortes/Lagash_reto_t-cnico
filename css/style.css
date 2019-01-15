@@ -30,7 +30,7 @@ html {
   width: 300px;
   height: 85px;
   border: 2px solid  #d0d0d0;
-  margin-bottom: 100px;
+  margin-bottom: 80px;
 }
 
 ol {
@@ -80,7 +80,7 @@ ol {
 }
 
 .pedido {
-  margin-top: 60px;
+  margin-top: 50px;
   text-align: center;
   box-sizing: content-box;
   width: 300px;
