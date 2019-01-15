@@ -22,5 +22,5 @@ El resumen consiste en el monto, y un botón para pagar:
 
 - El total se debe ir actualizando dependiendo del número de asientos seleccionados. Cada asiento tiene un costo de $200. 
 - Si el usuario elige 3 o más asientos, obtiene un 50% de descuento sobre total.
-- Al presionar el botón “Pagar ahora”, redireccionar a una pagina que contenga el texto “Gracias por tu compra”.
+- Al presionar el botón “Pagar ahora”, abre un modal que contiene el texto “Gracias por tu compra”.
 
