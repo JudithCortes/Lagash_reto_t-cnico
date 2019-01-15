@@ -1,1 +1,1 @@
-# Lagash_reto_t-cnico
+# Lagash_reto_técnico
