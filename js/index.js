@@ -4,14 +4,22 @@ $('input[type=checkbox]').click(function() {
     if($(this).is(':checked')) {
      console.log("seleccionado");
       total=total+200;
-      if(total==600){console.log(total/2);}
-      else{console.log(total);}
+      if(total==600){console.log(total/2);
+        document.getElementById('desc').innerHTML = "-50%";
+        document.getElementById('total').innerHTML = total/2;}
+      else{console.log(total);
+        document.getElementById('desc').innerHTML = " ";
+        document.getElementById('total').innerHTML = total;}
       
     } else {
       console.log("disponible");
       total= total-200;
-     if(total==600){console.log(total/2);}
-      else{console.log(total);}
+     if(total==600){console.log(total/2);
+      document.getElementById('desc').innerHTML = "-50%";
+      document.getElementById('total').innerHTML = total/2;}
+      else{console.log(total);
+        document.getElementById('desc').innerHTML = " ";
+        document.getElementById('total').innerHTML = total;}
     }
 });
 
@@ -33,3 +41,5 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+
+

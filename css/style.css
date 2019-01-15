@@ -20,7 +20,7 @@ html {
   width: 300px;
   height: 45px;
   border: 2px solid  #d0d0d0;
-  margin-button: 1px;
+  margin-bottom: 1px;
   background-color: #d0d0d0;
 }
 
@@ -84,7 +84,7 @@ ol {
   text-align: center;
   box-sizing: content-box;
   width: 300px;
-  height: 200px;
+  height: 240px;
   border: 2px solid  #d0d0d0;
 }
 
@@ -93,7 +93,7 @@ ol {
   font-size: 30px;
 }
 
-#total {
+#total1 {
   font-family: inherit;
   font-size: 27px;
 }
@@ -118,7 +118,7 @@ ol {
   padding: 20px;
   border: 1px solid #888;
   width: 30%;
-  height: 50%;
+  height: 30%;
 }
 
 .close {
